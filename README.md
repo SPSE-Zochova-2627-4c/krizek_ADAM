@@ -1,4 +1,4 @@
-# krizek_ADAM
+# ADAM
 
 Webová aplikácia pre študentov na organizáciu školských povinností a voľného času.
 
